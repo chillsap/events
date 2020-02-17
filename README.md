@@ -35,3 +35,11 @@
 **chillSAP もくもく会 #3**  
 
 [https://togetter.com/li/1445819](https://togetter.com/li/1445819)
+
+### 第07回イベント(2020/02/13開催)
+**SAPなんでもLT祭 ~若手編~**  
+
+[https://techplay.jp/eventreport/764310](https://techplay.jp/eventreport/764310)
+
+### 第08回イベント(2020/03/27開催予定 ※未定)
+**SAPもくもく会 #4**  
