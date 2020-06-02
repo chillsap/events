@@ -41,5 +41,5 @@
 
 [https://techplay.jp/eventreport/764310](https://techplay.jp/eventreport/764310)
 
-### 第08回イベント(2020/03/27開催予定 ※未定)
+### 第08回イベント(※未定)
 **SAPもくもく会 #4**  
