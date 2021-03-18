@@ -23,7 +23,7 @@
 **chillSAPの技術部屋**　(2021/06/02開催予定）
 
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
-※動画アーカイブはchillSAP FBページに保管
+※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 ## SAP Stammtish Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/3/24開催予定)
@@ -33,9 +33,9 @@
 
 
 ## もくもく会
-**chillSAP 夜のもくもく会**　(金曜21:00~23:00開催 →詳細はFBページへ)
+**chillSAP 夜のもくもく会**　(金曜21:00~23:00開催 →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
 
-**chillSAP 朝のもくもく会**　(日曜06:00~08:00開催 →詳細はFBページへ)
+**chillSAP 朝のもくもく会**　(日曜06:00~08:00開催 →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
 
 **chillSAP もくもく会 #3**  (2019/12/17開催)　
 [ツイートまとめ](https://togetter.com/li/1445819)
