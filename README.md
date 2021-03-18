@@ -29,7 +29,7 @@
 **SAP Stammtisch Tokyo 2021**  （2021/3/24開催予定)
 
 **SAP Stammtisch Tokyo 2020**  （2020/12/18開催)　
-[ブログ](https://blogs.sap.com/?p=874946)
+[ブログ](https://www.sapsumikko.jp/entry/2020/12/25/sumikko-night-sap-stammtisch-tokyo)
 
 
 ## もくもく会
