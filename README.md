@@ -1,7 +1,8 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo 
-**SAP Inside Track Tokyo 2020** (2021/02/03~2021/3/17毎週水曜開催） 
+**SAP Inside Track Tokyo 2021** (2021/02/03~2021/3/17毎週水曜開催）
+
 [開催案内（実施レポートへのリンク）](https://blogs.sap.com/2020/12/01/sap-inside-track-tokyo-2021/)
 
 **SAP Inside Track Tokyo 2019**  (2019/11/25, 27, 28開催)　
@@ -16,13 +17,13 @@
 [ツイートまとめ](https://togetter.com/li/1368084)
 
 ## chillSAPの部屋
-**第2回 ゲスト：クニエ海野さん** (2021/04/03開催予定）
+**第2回 ゲスト：クニエ海野さん**　(2021/04/03開催予定）
 [YouTube Live](https://youtu.be/0YMY-l1v_rQ)
 
-**chillSAPの技術部屋** (2021/06/02開催予定）
+**chillSAPの技術部屋**　(2021/06/02開催予定）
 
-**第1回 ゲスト：IBM森さん** (2020/04/28開催)
-※動画はchillSAP FBページにて
+**第1回 ゲスト：IBM森さん**　(2020/04/28開催)
+※動画アーカイブはchillSAP FBページに保管
 
 ## SAP Stammtish Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/3/24開催予定)
@@ -32,9 +33,9 @@
 
 
 ## もくもく会
-**chillSAP 夜のもくもく会**(金曜21:00~23:00開催 →詳細はFBページへ)
+**chillSAP 夜のもくもく会**　(金曜21:00~23:00開催 →詳細はFBページへ)
 
-**chillSAP 朝のもくもく会**(日曜06:00~08:00開催 →詳細はFBページへ)
+**chillSAP 朝のもくもく会**　(日曜06:00~08:00開催 →詳細はFBページへ)
 
 **chillSAP もくもく会 #3**  (2019/12/17開催)　
 [ツイートまとめ](https://togetter.com/li/1445819)
