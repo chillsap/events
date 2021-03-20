@@ -6,7 +6,7 @@
 [開催案内（実施レポートへのリンク）](https://blogs.sap.com/2020/12/01/sap-inside-track-tokyo-2021/)
 
 **SAP Inside Track Tokyo 2019**  (2019/11/25, 27, 28開催)　
-[実施レポート](https://blogs.sap.com/?p=874946)
+[実施レポート](https://blogs.sap.com/2019/12/02/sap-inside-track-tokyo-2019-finished-a-great-success-recap-sittokyo/)
 
 ## LT祭
 **SAPなんでもLT祭 ~若手編~**  (2020/02/13開催)　
