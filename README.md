@@ -47,6 +47,19 @@
 [ツイートまとめ](https://togetter.com/li/1396271)
 
 
+## アドベントカレンダー
+**SAP Advent Calendar 2020**　
+[リンク](https://adventar.org/calendars/5047)
+
+**chillSAP 夏の自由研究 2020**
+[リンク](https://note.com/chillsap/n/n66e12ef65d11)
+
+**SAP Advent Calendar 2019**
+[リンク](https://adventar.org/calendars/3908)
+
+**SAP Advent Calendar 2018** ※chillSAP誕生前
+[リンク](https://adventar.org/calendars/3262)
+
 ## その他
 
 
