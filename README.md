@@ -17,10 +17,11 @@
 [ツイートまとめ](https://togetter.com/li/1368084)
 
 ## chillSAPの部屋
-**第2回 ゲスト：クニエ海野さん**　(2021/04/03開催予定）
+**第2回 ゲスト：クニエ海野さん**　(2021/04/07開催）
 [YouTube Live](https://youtu.be/0YMY-l1v_rQ)
 
 **chillSAPの技術部屋**　(2021/06/02開催予定）
+[TECH PLAY](http://techplay.jp/event/812208)
 
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
