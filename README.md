@@ -21,7 +21,7 @@
 [YouTube Live](https://youtu.be/0YMY-l1v_rQ)
 
 **chillSAPの技術部屋**　(2021/06/02開催予定）
-[TECH PLAY](http://techplay.jp/event/812208)
+[TECH PLAY](http://techplay.jp/event/812208)　
 [YouTube Live](https://youtu.be/fiaiORVho_0)
 
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
