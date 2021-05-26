@@ -22,12 +22,13 @@
 
 **chillSAPの技術部屋**　(2021/06/02開催予定）
 [TECH PLAY](http://techplay.jp/event/812208)
+[YouTube Live](https://youtu.be/fiaiORVho_0)
 
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 ## SAP Stammtish Tokyo
-**SAP Stammtisch Tokyo 2021**  （2021/3/24開催予定)
+**SAP Stammtisch Tokyo 2021**  （2021/03/24開催)
 
 **SAP Stammtisch Tokyo 2020**  （2020/12/18開催)　
 [ブログ](https://www.sapsumikko.jp/entry/2020/12/25/sumikko-night-sap-stammtisch-tokyo)
