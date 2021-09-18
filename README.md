@@ -50,6 +50,9 @@
 
 
 ## アドベントカレンダー
+**chillSAP 夏の自由研究 2021**
+[リンク](https://note.com/chillsap/n/n08ef5ec73b4c)
+
 **SAP Advent Calendar 2020**　
 [リンク](https://adventar.org/calendars/5047)
 
