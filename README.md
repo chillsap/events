@@ -1,9 +1,9 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo 
-**SAP Inside Track Tokyo 2021** (2021/02/03~2021/3/17毎週水曜開催）
+**SAP Inside Track Tokyo 2021** (2021/02/03~03/17開催）
 
-[開催案内（実施レポートへのリンク）](https://blogs.sap.com/2020/12/01/sap-inside-track-tokyo-2021/)
+[開催案内＆レポート](https://blogs.sap.com/2020/12/01/sap-inside-track-tokyo-2021/)
 
 **SAP Inside Track Tokyo 2019**  (2019/11/25, 27, 28開催)　
 [実施レポート](https://blogs.sap.com/2019/12/02/sap-inside-track-tokyo-2019-finished-a-great-success-recap-sittokyo/)
@@ -50,13 +50,13 @@
 
 
 ## アドベントカレンダー
-**SAP Advent Calendar 2021**　
+**SAP Advent Calendar 2021** 
 [リンク](https://adventar.org/calendars/6252)
 
 **chillSAP 夏の自由研究 2021**
 [リンク](https://note.com/chillsap/n/n08ef5ec73b4c)
 
-**SAP Advent Calendar 2020**　
+**SAP Advent Calendar 2020** 
 [リンク](https://adventar.org/calendars/5047)
 
 **chillSAP 夏の自由研究 2020**
