@@ -2,7 +2,6 @@
 
 ## SAP Inside Track Tokyo 
 **SAP Inside Track Tokyo 2021** (2021/02/03~03/17開催）
-
 [開催案内＆レポート](https://blogs.sap.com/2020/12/01/sap-inside-track-tokyo-2021/)
 
 **SAP Inside Track Tokyo 2019**  (2019/11/25, 27, 28開催)　
