@@ -20,7 +20,7 @@
 **第2回 ゲスト：クニエ海野さん**　(2021/04/07開催）
 [YouTube Live](https://youtu.be/0YMY-l1v_rQ)
 
-**chillSAPの技術部屋**　(2021/06/02開催予定）
+**chillSAPの技術部屋**　(2021/06/02開催）
 [TECH PLAY](http://techplay.jp/event/812208)　
 [YouTube Live](https://youtu.be/fiaiORVho_0)
 
