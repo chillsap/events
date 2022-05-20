@@ -31,7 +31,7 @@
 
 ## Meet the Beginners
 **第1回**　(2022/05/30開催予定）
-※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)にあります
+※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)になります
 
 
 ## SAP Stammtish Tokyo
