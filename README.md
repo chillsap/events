@@ -30,7 +30,7 @@
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 ## Meet the Beginners
-**第1回 **　(2022/05/30開催予定）
+**第1回**　(2022/05/30開催予定）
 ※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)にあります
 
 
