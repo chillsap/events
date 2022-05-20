@@ -29,6 +29,11 @@
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
+## Meet the Beginners
+**第1回 **　(2022/05/30開催予定）
+※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)にあります
+
+
 ## SAP Stammtish Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/03/24開催)
 
