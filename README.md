@@ -10,13 +10,12 @@
 **SAP Inside Track Tokyo 2019**  (2019/11/25, 27, 28開催)　
 [実施レポート](https://blogs.sap.com/2019/12/02/sap-inside-track-tokyo-2019-finished-a-great-success-recap-sittokyo/)
 
-## LT祭
-**SAPなんでもLT祭 ~若手編~**  (2020/02/13開催)　
-[TECH PLAYレポート](https://techplay.jp/eventreport/764310)
+## Meet the Beginners
+**第2回　ゲスト：IBM柳川さん**　(2022/07/05開催予定）
+※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)になります
 
-**SAPなんでもライトニングトーク祭** (2019/06/19開催)　
-[TECH PLAYレポート](https://techplay.jp/eventreport/725758)　
-[ツイートまとめ](https://togetter.com/li/1368084)
+**第1回**　(2022/05/30開催）
+[投影資料](https://www.slideshare.net/secret/sK3nPHynVdrzPK?fbclid=IwAR0iywNG1tIrwKxo69ZSksd_Z1CVGssDSqH8kxOswtSePGJEp3m_WznkKNg)
 
 ## chillSAPの部屋
 **第2回 ゲスト：クニエ海野さん**　(2021/04/07開催）
@@ -29,12 +28,13 @@
 **第1回 ゲスト：IBM森さん**　(2020/04/28開催)
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
-## Meet the Beginners
-**第2回**　(2022/07/05開催予定）
-※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)になります
+## LT祭
+**SAPなんでもLT祭 ~若手編~**  (2020/02/13開催)　
+[TECH PLAYレポート](https://techplay.jp/eventreport/764310)
 
-**第1回**　(2022/05/30開催）
-[投影資料](https://www.slideshare.net/secret/sK3nPHynVdrzPK?fbclid=IwAR0iywNG1tIrwKxo69ZSksd_Z1CVGssDSqH8kxOswtSePGJEp3m_WznkKNg)
+**SAPなんでもライトニングトーク祭** (2019/06/19開催)　
+[TECH PLAYレポート](https://techplay.jp/eventreport/725758)　
+[ツイートまとめ](https://togetter.com/li/1368084)
 
 ## SAP Stammtish Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/03/24開催)
