@@ -30,9 +30,11 @@
 ※動画アーカイブはchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 ## Meet the Beginners
-**第1回**　(2022/05/30開催予定）
+**第2回**　(2022/07/05開催予定）
 ※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)になります
 
+**第1回**　(2022/05/30開催）
+[投影資料](https://www.slideshare.net/secret/sK3nPHynVdrzPK?fbclid=IwAR0iywNG1tIrwKxo69ZSksd_Z1CVGssDSqH8kxOswtSePGJEp3m_WznkKNg)
 
 ## SAP Stammtish Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/03/24開催)
