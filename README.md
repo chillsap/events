@@ -11,8 +11,8 @@
 [実施レポート](https://blogs.sap.com/2019/12/02/sap-inside-track-tokyo-2019-finished-a-great-success-recap-sittokyo/)
 
 ## Meet the Beginners
-**第2回　ゲスト：IBM柳川さん**　(2022/07/05開催予定）
-※告知＆配信はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)になります
+**第2回　ゲスト：IBM柳川さん**　(2022/07/05開催）
+※投影資料Up予定あり
 
 **第1回**　(2022/05/30開催）
 [投影資料](https://www.slideshare.net/secret/sK3nPHynVdrzPK?fbclid=IwAR0iywNG1tIrwKxo69ZSksd_Z1CVGssDSqH8kxOswtSePGJEp3m_WznkKNg)
@@ -59,6 +59,9 @@
 
 
 ## アドベントカレンダー
+**chillSAP 夏の自由研究 2022**
+[リンク](https://note.com/chillsap/n/n62740563aee0)
+
 **SAP Advent Calendar 2021** 
 [リンク](https://adventar.org/calendars/6252)
 
