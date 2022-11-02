@@ -12,7 +12,7 @@
 
 ## Meet the Beginners
 **第2回　ゲスト：IBM柳川さん**　(2022/07/05開催）
-※投影資料Up予定あり
+※動画アーカイブ（抜粋版）はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 **第1回**　(2022/05/30開催）
 [投影資料](https://www.slideshare.net/secret/sK3nPHynVdrzPK?fbclid=IwAR0iywNG1tIrwKxo69ZSksd_Z1CVGssDSqH8kxOswtSePGJEp3m_WznkKNg)
@@ -59,6 +59,9 @@
 
 
 ## アドベントカレンダー
+**SAP Advent Calendar 2022** 
+[リンク](https://adventar.org/calendars/7484)
+
 **chillSAP 夏の自由研究 2022**
 [リンク](https://note.com/chillsap/n/n62740563aee0)
 
