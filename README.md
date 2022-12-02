@@ -1,7 +1,7 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo 
-**SAP Inside Track Tokyo 2023** (2022/02/02~03/2開催予定）
+**SAP Inside Track Tokyo 2023** (2022/02/02~03/02開催予定）
 [開催案内](https://blogs.sap.com/2022/11/17/sap-inside-track-tokyo-2023/)
 
 **SAP Inside Track Tokyo 2022** (2022/02/03~03/10開催）
