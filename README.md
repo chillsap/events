@@ -15,6 +15,7 @@
 
 ## Meet the Beginners
 **第2回　ゲスト：IBM柳川さん**　(2022/07/05開催）
+
 ※動画アーカイブ（抜粋版）はchillSAP [FBページ](https://www.facebook.com/groups/chillSAP)に保管
 
 **第1回**　(2022/05/30開催）
