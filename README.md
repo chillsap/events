@@ -48,7 +48,7 @@
 
 
 ## もくもく会
-**chillSAP もくもく会 #4**  (2023/7/25開催)　[ツイートまとめ](https://togetter.com/li/1445819)
+**chillSAP もくもく会 #4**  (2023/7/25開催)　
 
 **chillSAP 夜のもくもく会**　(金曜21:00~23:00開催してました →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
 
