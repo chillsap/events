@@ -1,8 +1,8 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo 
-**SAP Inside Track Tokyo 2023** (2022/02/02~03/02開催予定）
-[開催案内](https://blogs.sap.com/2022/11/17/sap-inside-track-tokyo-2023/)
+**SAP Inside Track Tokyo 2023** (2022/02/02~03/02開催）
+[開催案内＆レポート](https://blogs.sap.com/2022/11/17/sap-inside-track-tokyo-2023/)
 
 **SAP Inside Track Tokyo 2022** (2022/02/03~03/10開催）
 [開催案内＆レポート](https://blogs.sap.com/2021/11/15/sap-inside-track-tokyo-2022-%E6%A1%88%E5%86%85/)
@@ -48,9 +48,11 @@
 
 
 ## もくもく会
-**chillSAP 夜のもくもく会**　(金曜21:00~23:00開催 →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
+**chillSAP もくもく会 #4**  (2023/7/25開催)　[ツイートまとめ](https://togetter.com/li/1445819)
 
-**chillSAP 朝のもくもく会**　(日曜06:00~08:00開催 →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
+**chillSAP 夜のもくもく会**　(金曜21:00~23:00開催してました →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
+
+**chillSAP 朝のもくもく会**　(日曜06:00~08:00開催してました →詳細は[FBページ](https://www.facebook.com/groups/chillSAP)へ)
 
 **chillSAP もくもく会 #3**  (2019/12/17開催)　
 [ツイートまとめ](https://togetter.com/li/1445819)
@@ -63,6 +65,9 @@
 
 
 ## アドベントカレンダー
+**SAP Advent Calendar 2023** 
+[リンク](https://adventar.org/calendars/8870)
+
 **SAP Advent Calendar 2022** 
 [リンク](https://adventar.org/calendars/7484)
 
@@ -88,7 +93,8 @@
 [リンク](https://adventar.org/calendars/3262)
 
 ## その他
-
+**SAP TechEd 2023 事前懇親会**  （2023/10/13開催)　
+[ブログ](https://www.sapsumikko.jp/entry/2023/10/13/sap-teched-2023-pre-event)
 
 **デザインシンキングワークショップ** (2019/03/09開催)　[TECH PLAYレポート](https://techplay.jp/column/517)　
 [ツイートまとめ](https://togetter.com/li/1326796)
